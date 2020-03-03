@@ -1,5 +1,7 @@
 <?php
 
-echo "coe gurizao";
+echo "coe gurizaoxdxd";
+
+echo "eramos um time";
 
 ?>
